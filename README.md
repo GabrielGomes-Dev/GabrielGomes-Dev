@@ -1,7 +1,7 @@
 Sobre Mim
 - 👀 Aprofundando meus conhecimentos na área de Tecnologia e iniciando minha jornada como desenvolvedor.
 - 🎓 Cursando Ciência da Computação no IFMA - Campus Imperatriz
-- 🌱 Aprendendo sobre C | HTML | JavaScript|.
+- 🌱 Aprendendo sobre C | HTML | JavaScript 
 
 
 <!---
